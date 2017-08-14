@@ -1,8 +1,8 @@
 from Unbounce.Unbounce import retrieveUnbounceLeads
 
-######################################################################################
-#THIS IS A PROGRAM BUILT ONLY TO EXTRACT LEAD DATA FROM THE CURRENT MONTH OF OPTIMISE#
-######################################################################################
+##########################################################################
+#THIS IS A PROGRAM BUILT ONLY TO EXTRACT LEAD DATA FROM THE CURRENT MONTH#
+##########################################################################
 
 #####################################
 #           CONFIGURATION           #
